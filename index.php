@@ -16,7 +16,7 @@ and open the template in the editor.
             public $variable = 'Un valor cualquiera';
             
             public function metodeFantasma(){
-                
+                echo 'Codi metodeModificat fantasma Issam ';
                 
             }
             
