@@ -12,6 +12,16 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        class IssamClase {
+            public $variable = 'Un valor cualquiera';
+    
+            public function metode1(){
+                
+            }
+    
+        }        
+        
+        
         ?>
     </body>
 </html>
