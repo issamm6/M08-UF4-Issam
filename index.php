@@ -14,6 +14,19 @@ and open the template in the editor.
         // put your code here
         class IssamClase {
             public $variable = 'Un valor cualquiera';
+            
+            public function metodeFantasma(){
+                
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
     
             public function metode1(){
                 
@@ -24,6 +37,8 @@ and open the template in the editor.
             public function metode3(){
                 
             }
+            
+            
     
         }        
         
