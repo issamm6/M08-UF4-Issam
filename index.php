@@ -21,6 +21,9 @@ and open the template in the editor.
             public function metode2(){
                 
             }
+            public function metode3(){
+                
+            }
     
         }        
         
